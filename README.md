@@ -1,39 +1,43 @@
 # Olá, eu sou o Matheus Levi 👋
 
-### Engenharia de Computação | Desenvolvedor de Software
+### Engenharia de Computação | Backend & IoT
 
-Sou desenvolvedor de software e graduando em Engenharia de Computação pelo IFCE. Tenho grande interesse na construção de sistemas backend robustos e na integração de sistemas embarcados com Inteligência Artificial e Machine Learning.
+Sou desenvolvedor de software e graduando em Engenharia de Computação pelo IFCE. Tenho grande interesse no ecossistema Java, na construção de sistemas backend e na integração de Internet das Coisas (IoT) com Inteligência Artificial e aplicações Mobile.
 
 ### 🚀 Sobre mim
 
 * 🎓 Graduando em **Engenharia de Computação** pelo IFCE.
-* 💻 Focando meus estudos em desenvolvimento **Backend**, estruturação de banco de dados e criação de APIs de alta performance com **FastAPI**.
-* 🤖 Explorando o ecossistema de **Sistemas Embarcados** (trabalhando frequentemente com **ESP32**), com interesse especial em aplicar **IA e Machine Learning** no mundo físico.
-* ⚙️ Experiência com C++ para projetos de hardware e desenvolvimento de soluções integradas.
+* ☕ Focando meu aprimoramento no ecossistema **Java**, mergulhando nos estudos de **Spring** para backend.
+* 🤖 Explorando **Sistemas Embarcados e IoT**, buscando aplicar **IA e Machine Learning** no mundo físico.
+* 📱 Direcionando meus estudos para desenvolvimento **Mobile** (Kotlin/Flutter) para integrar aplicativos aos projetos de hardware.
+* ⚙️ Utilizo ferramentas como **Docker** e **PostgreSQL** para criar ambientes e bancos de dados robustos.
 
 ### 🛠 Tecnologias e Ferramentas
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<div style="display: inline-block">
+  <!-- Backend & Linguagens -->
+  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  
+  <!-- Mobile -->
+  <img title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  
+  <!-- Infra & Banco -->
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" style="margin-right: 10px;" />
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" style="margin-right: 10px;" />
 </div>
+
 <br>
-<div>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
 
 ### 🌱 Estudando atualmente
 
-* Integração de Inteligência Artificial com Hardware (Machine Learning aplicado a embarcados).
-* Arquitetura de Banco de Dados, Migrations e Autenticação de APIs.
+* Aprimoramento em **Java** com o framework **Spring** (criação de APIs e microsserviços).
+* Desenvolvimento **Mobile** para conectar apps com hardware.
+* **Docker** para conteinerização de aplicações.
 
 ### 📊 Estatísticas
 
