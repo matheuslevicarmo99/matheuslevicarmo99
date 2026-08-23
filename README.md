@@ -1,24 +1,22 @@
 # Olá, eu sou o Matheus Levi 👋
 
-### Engenharia de Computação | Desenvolvedor Backend
+### Engenharia de Computação | Desenvolvedor de Software
 
-Sou desenvolvedor de software e graduando em Engenharia de Computação pelo IFCE, campus Fortaleza. Tenho um forte interesse na construção de sistemas backend robustos, arquitetura de computadores e na aplicação de programação para resolver problemas físicos e lógicos.
+Sou desenvolvedor de software e graduando em Engenharia de Computação pelo IFCE. Tenho grande interesse na construção de sistemas backend robustos e na integração de sistemas embarcados com Inteligência Artificial e Machine Learning.
 
 ### 🚀 Sobre mim
 
-* 🎓 Graduando em **Engenharia de Computação**.
-* 💻 Focando meus estudos em desenvolvimento **Backend**, criação de APIs, estruturação de banco de dados e linguagens de baixo nível.
-* ⚙️ Entusiasta da integração entre hardware e software, com experiência prática em simulações 3D aplicadas e eletrônica.
-* 🎮 Nas horas vagas, divido meu tempo entre otimizar setups e explorar mecânicas e mods de jogos.
+* 🎓 Graduando em **Engenharia de Computação** pelo IFCE.
+* 💻 Focando meus estudos em desenvolvimento **Backend**, criação de APIs e estruturação de banco de dados.
+* 🤖 Explorando o ecossistema de **Sistemas Embarcados**, com interesse especial em aplicar **IA e Machine Learning** no mundo físico.
+* ⚙️ Experiência com C++ para projetos de hardware e desenvolvimento de soluções integradas.
 
 ### 🛠 Tecnologias e Ferramentas
 
-<!-- Badges das tecnologias (estilo for-the-badge) -->
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 <br>
 <div>
@@ -29,8 +27,8 @@ Sou desenvolvedor de software e graduando em Engenharia de Computação pelo IFC
 
 ### 🌱 Estudando atualmente
 
-* Arquitetura de Banco de Dados, Migrations e Autenticação.
-* Lógica e física computacional (aplicações em VPython).
+* Integração de Inteligência Artificial com Hardware.
+* Arquitetura de Banco de Dados e desenvolvimento de APIs.
 
 ### 📊 Estatísticas
 
