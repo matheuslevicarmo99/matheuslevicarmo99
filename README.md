@@ -1,12 +1,12 @@
 # Olá, eu sou o Matheus Levi 👋
 
-Estou me formando em engenharia da computação pelo IFCE, com foco em desenvolvimento backend, IoT e mobile.
+Estou me formando em engenharia da computação pelo IFCE, com foco em desenvolvimento Backend, IoT e mobile.
 
 🚀 Sobre mim
 
 * 🎓 Graduando em engenharia da computação pelo IFCE
-* 💻 Tenho experiência prática no desenvolvimento backend, lidando com estruturação de bancos de dados, controle de migrations e rotas de autenticação
-* ⚙️ Gosto de tirar ideias do papel unindo software e mundo físico — desde a criação de simulações em 3D até o cálculo e montagem de projetos de hardware
+* 💻 Tenho experiência prática no desenvolvimento Backend, lidando com estruturação de bancos de dados, controle de migrations e rotas de autenticação
+* ⚙️ Gosto de tirar ideias do papel unindo software e mundo físico através da estruturação e montagem de projetos de hardware
 * 🤖 Entusiasta da integração entre inteligência artificial e sistemas embarcados
 
 🛠 Tecnologias e Ferramentas
