@@ -7,28 +7,33 @@ Sou desenvolvedor de software e graduando em Engenharia de Computação pelo IFC
 ### 🚀 Sobre mim
 
 * 🎓 Graduando em **Engenharia de Computação** pelo IFCE.
-* 💻 Focando meus estudos em desenvolvimento **Backend**, criação de APIs e estruturação de banco de dados.
-* 🤖 Explorando o ecossistema de **Sistemas Embarcados**, com interesse especial em aplicar **IA e Machine Learning** no mundo físico.
+* 💻 Focando meus estudos em desenvolvimento **Backend**, estruturação de banco de dados e criação de APIs de alta performance com **FastAPI**.
+* 🤖 Explorando o ecossistema de **Sistemas Embarcados** (trabalhando frequentemente com **ESP32**), com interesse especial em aplicar **IA e Machine Learning** no mundo físico.
 * ⚙️ Experiência com C++ para projetos de hardware e desenvolvimento de soluções integradas.
 
 ### 🛠 Tecnologias e Ferramentas
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 <br>
 <div>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+<br>
+<div>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ### 🌱 Estudando atualmente
 
-* Integração de Inteligência Artificial com Hardware.
-* Arquitetura de Banco de Dados e desenvolvimento de APIs.
+* Integração de Inteligência Artificial com Hardware (Machine Learning aplicado a embarcados).
+* Arquitetura de Banco de Dados, Migrations e Autenticação de APIs.
 
 ### 📊 Estatísticas
 
