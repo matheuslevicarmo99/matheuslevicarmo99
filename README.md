@@ -4,10 +4,10 @@ Estou me formando em engenharia da computação pelo IFCE, com foco em desenvolv
 
 🚀 Sobre mim
 
-* 🎓 Estou me formando em engenharia da computação pelo IFCE e quero atuar na criação de sistemas que integram software e hardware
-* 💻 Durante a graduação, tenho desenvolvido projetos práticos envolvendo estruturação de APIs, banco de dados e simulações físicas
-* ⚙️ Possuo experiência com lógica de programação aplicada a eletrônica e desenvolvimento de soluções integradas
-* 💡 Entusiasta por internet das coisas (IoT) e automação
+* 🎓 Graduando em engenharia da computação pelo IFCE
+* 💻 Tenho experiência prática no desenvolvimento backend, lidando com estruturação de bancos de dados, controle de migrations e rotas de autenticação
+* ⚙️ Gosto de tirar ideias do papel unindo software e mundo físico — desde a criação de simulações em 3D até o cálculo e montagem de projetos de hardware
+* 🤖 Entusiasta da integração entre inteligência artificial e sistemas embarcados
 
 🛠 Tecnologias e Ferramentas
 
