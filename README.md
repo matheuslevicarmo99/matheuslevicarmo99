@@ -4,11 +4,10 @@ Estou me formando em engenharia da computação pelo IFCE, com foco em desenvolv
 
 🚀 Sobre mim
 
-* 🎓 Graduando em engenharia da computação pelo IFCE
-* ☕ Estudando o ecossistema Java e o framework Spring para desenvolvimento backend
-* 🤖 Explorando sistemas embarcados e IoT com aplicações em machine learning
-* 📱 Buscando integrar projetos de hardware com aplicativos mobile usando Kotlin e Flutter
-* ⚙️ Utilizando ferramentas como Docker e PostgreSQL para criar ambientes estruturados
+* 🎓 Estou me formando em engenharia da computação pelo IFCE e quero atuar na criação de sistemas que integram software e hardware
+* 💻 Durante a graduação, tenho desenvolvido projetos práticos envolvendo estruturação de APIs, banco de dados e simulações físicas
+* ⚙️ Possuo experiência com lógica de programação aplicada a eletrônica e desenvolvimento de soluções integradas
+* 💡 Entusiasta por internet das coisas (IoT) e automação
 
 🛠 Tecnologias e Ferramentas
 
@@ -28,9 +27,9 @@ Estou me formando em engenharia da computação pelo IFCE, com foco em desenvolv
 
 🌱 Estudando atualmente
 
-* Ecossistema Java e Spring
-* Desenvolvimento mobile integrado com hardware
-* Docker e infraestrutura
+* Ecossistema Java e framework Spring Boot
+* Desenvolvimento de aplicativos mobile com Kotlin e Flutter
+* Machine Learning aplicado a sistemas embarcados (ESP32)
 
 📊 Estatísticas
 
