@@ -30,10 +30,3 @@ Estou me formando em engenharia da computação pelo IFCE, com foco em desenvolv
 * Ecossistema Java e framework Spring Boot
 * Desenvolvimento de aplicativos mobile com Kotlin e Flutter
 * Machine Learning aplicado a sistemas embarcados (ESP32)
-
-📊 Estatísticas
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuslevicarmo99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslevicarmo99&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
