@@ -28,5 +28,5 @@ Estou me formando em engenharia da computação pelo IFCE, com foco em desenvolv
 🌱 Estudando atualmente
 
 * Ecossistema Java e framework Spring Boot
-* Desenvolvimento de aplicativos mobile com Kotlin e Flutter
+* Desenvolvimento de aplicativos mobile com Flutter
 * Machine Learning aplicado a sistemas embarcados (ESP32)
